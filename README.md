@@ -1,4 +1,4 @@
-![.NET Core](https://github.com/ET12DE1Computacion/ClaseTask/workflows/.NET%20Core/badge.svg?branch=master)
+![.NET Core](https://github.com/ET12DE1Computacion/ClaseTask/workflows/.NET%20Core/badge.svg?branch=main)
 
 # Clase Task
 
