@@ -1,69 +1,38 @@
-![.NET Core](https://github.com/ET12DE1Computacion/template/workflows/.NET%20Core/badge.svg?branch=master)
+![.NET Core](https://github.com/ET12DE1Computacion/ClaseTask/workflows/.NET%20Core/badge.svg?branch=master)
 
-# Título del Proyecto
+# Clase Task
 
-_Acá va un párrafo que describa lo que es el proyecto_
+Proyectos para ver el funcionamiento de la clase Task
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+Clonar el repositorio github, desde Github Desktop o ejecutar en la terminal o CMD:
 
-Mira **Despliegue** para conocer como desplegar el proyecto.
-
+```
+git clone https://github.com/ET12DE1Computacion/ClaseTask.git
+```
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+- .NET 5.0.7 (SDK .NET 5.0.301) [Descargar](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre que cosas se debe instalar, configurar y como hacer deploy_
+- 01Task: ubicarse dentro de el directorio `01Task` y ejecutar el comando `dotnet run`.
+- 02TaskT: ubicarse dentro de el directorio `02TaskT` y ejecutar el comando `dotnet run`.
 
 ## Construido con 🛠️
 
-_Menciona las herramientas y versiones que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+* [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) - Editor de código.
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/ET12DE1Computacion/ClaseTask/tags).
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Max Power** - *Desarrollo* - [Maxpower](https://github.com/maxpower)
-* **Cosme Fulanito** - *Documentación* - [Cosmefulanito](#Cosmefulanito)
+* **Luis Duran** - *Desarrollo* - [@luchoxx87](https://github.com/luchoxx87)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
