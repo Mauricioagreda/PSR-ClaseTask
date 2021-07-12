@@ -1,4 +1,4 @@
-![.NET](https://github.com/ET12DE1Computacion/ClaseTask/workflows/.NET%20Core/badge.svg?branch=main)
+![.NET](https://github.com/ET12DE1Computacion/ClaseTask/workflows/.NET5/badge.svg?branch=main)
 
 # Clase Task
 
@@ -35,4 +35,4 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
+Este proyecto está bajo la Licencia *Creative Commons Zero v1.0 Universal* - mira el archivo [LICENSE](LICENSE) para detalles.
