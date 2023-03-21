@@ -9,13 +9,6 @@ namespace _01Task
         {
             Task tarea = Task.Run( () => Saludos() );
             tarea.Wait();
-            Console.WriteLine();
-            Task suma = Task.Run( () => Suma(1, 2) );
-
-            Console.WriteLine();
-            suma.Wait();
-
-            Console.ReadKey();
         }
         public static void Saludos()
         {
@@ -24,6 +17,5 @@ namespace _01Task
                 Console.WriteLine($"Hola {i}");
             }
         }
-        public static int Suma(int a, int b) => a + b;
     }
 }
